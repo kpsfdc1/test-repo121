@@ -1,6 +1,6 @@
-class hello {
-	public static void main()
+class hello {	#from dev1
+	public static void main()	#from dev1
 	{
-		public sttic void main("hello dev1 modf");
+		public sttic void main("modf from dev1");
 	}
 }
